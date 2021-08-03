@@ -1,0 +1,436 @@
+{
+  "asset": {
+    "page": {
+      "contentTypeId": "1a82a45596c98f631dc310ccc43434de",
+      "contentTypePath": "semo.edu:People Detail",
+      "structuredData": {
+        "structuredDataNodes": [
+          {
+            "type": "group",
+            "identifier": "name",
+            "structuredDataNodes": [
+              {
+                "type": "text",
+                "identifier": "prefix",
+                "recycled": false
+              },
+              {
+                "type": "text",
+                "identifier": "first",
+                "text": "Sharon",
+                "recycled": false
+              },
+              {
+                "type": "text",
+                "identifier": "middle",
+                "recycled": false
+              },
+              {
+                "type": "text",
+                "identifier": "last",
+                "text": "Fox",
+                "recycled": false
+              },
+              {
+                "type": "text",
+                "identifier": "suffix",
+                "recycled": false
+              }
+            ],
+            "recycled": false
+          },
+          {
+            "type": "group",
+            "identifier": "position",
+            "structuredDataNodes": [
+              {
+                "type": "text",
+                "identifier": "title",
+                "text": "Donor",
+                "recycled": false
+              },
+              {
+                "type": "text",
+                "identifier": "role",
+                "text": "::CONTENT-XML-SELECTOR::Other",
+                "recycled": false
+              },
+              {
+                "type": "text",
+                "identifier": "departments",
+                "text": "Spotlight",
+                "recycled": false
+              }
+            ],
+            "recycled": false
+          },
+          {
+            "type": "group",
+            "identifier": "image",
+            "structuredDataNodes": [
+              {
+                "type": "text",
+                "identifier": "showImage",
+                "text": "No",
+                "recycled": false
+              },
+              {
+                "type": "asset",
+                "identifier": "mobile",
+                "assetType": "file",
+                "recycled": false
+              },
+              {
+                "type": "asset",
+                "identifier": "desktop",
+                "assetType": "file",
+                "recycled": false
+              },
+              {
+                "type": "text",
+                "identifier": "alt",
+                "recycled": false
+              }
+            ],
+            "recycled": false
+          },
+          {
+            "type": "group",
+            "identifier": "phone-numbers",
+            "structuredDataNodes": [
+              {
+                "type": "group",
+                "identifier": "phone-number",
+                "structuredDataNodes": [
+                  {
+                    "type": "text",
+                    "identifier": "label",
+                    "recycled": false
+                  },
+                  {
+                    "type": "text",
+                    "identifier": "number",
+                    "recycled": false
+                  }
+                ],
+                "recycled": false
+              }
+            ],
+            "recycled": false
+          },
+          {
+            "type": "group",
+            "identifier": "email-addresses",
+            "structuredDataNodes": [
+              {
+                "type": "group",
+                "identifier": "email",
+                "structuredDataNodes": [
+                  {
+                    "type": "text",
+                    "identifier": "label",
+                    "recycled": false
+                  },
+                  {
+                    "type": "text",
+                    "identifier": "address",
+                    "recycled": false
+                  }
+                ],
+                "recycled": false
+              }
+            ],
+            "recycled": false
+          },
+          {
+            "type": "group",
+            "identifier": "locations",
+            "structuredDataNodes": [
+              {
+                "type": "group",
+                "identifier": "location",
+                "structuredDataNodes": [
+                  {
+                    "type": "text",
+                    "identifier": "label",
+                    "recycled": false
+                  },
+                  {
+                    "type": "text",
+                    "identifier": "address-line-one",
+                    "recycled": false
+                  },
+                  {
+                    "type": "text",
+                    "identifier": "address-line-two",
+                    "recycled": false
+                  }
+                ],
+                "recycled": false
+              }
+            ],
+            "recycled": false
+          },
+          {
+            "type": "group",
+            "identifier": "hours",
+            "structuredDataNodes": [
+              {
+                "type": "text",
+                "identifier": "content",
+                "recycled": false
+              }
+            ],
+            "recycled": false
+          },
+          {
+            "type": "group",
+            "identifier": "social",
+            "structuredDataNodes": [
+              {
+                "type": "group",
+                "identifier": "link",
+                "structuredDataNodes": [
+                  {
+                    "type": "text",
+                    "identifier": "type",
+                    "recycled": false
+                  },
+                  {
+                    "type": "text",
+                    "identifier": "url",
+                    "recycled": false
+                  }
+                ],
+                "recycled": false
+              }
+            ],
+            "recycled": false
+          },
+          {
+            "type": "group",
+            "identifier": "pageIntro",
+            "structuredDataNodes": [
+              {
+                "type": "text",
+                "identifier": "description",
+                "recycled": false
+              },
+              {
+                "type": "text",
+                "identifier": "content",
+                "recycled": false
+              }
+            ],
+            "recycled": false
+          },
+          {
+            "type": "group",
+            "identifier": "row",
+            "structuredDataNodes": [
+              {
+                "type": "text",
+                "identifier": "type",
+                "text": "WYSIWYG",
+                "recycled": false
+              },
+              {
+                "type": "asset",
+                "identifier": "block",
+                "assetType": "block",
+                "recycled": false
+              },
+              {
+                "type": "text",
+                "identifier": "content",
+                "text": "<p><strong>What does Southeast Missouri State University mean to you?</strong></p><p>The 4 years I spent at SEMO were the best 4 years of my whole life!! Besides getting an education that helped me throughout my whole life, I learned so much more than just in the classroom. The Golden Eagles Marching Band was the most important part of my life. They were my family away from home &amp; my support group when needed. Besides giving me a scholarship, the marching band gave me a real sense of pride, taught me responsibility, &amp; strengthened my \"work ethic\" of putting in the effort to make a very real contribution to the arts &amp; humanity.</p><p><strong>Why is it important to support students (at a time like this)?</strong></p><p>In this difficult, unheard-of time, many students would not be able to finish their education without outside help. Education is SO important! And even if we choose not to go into the field in which we earned our degree, there is so much more to be learned than what is in a textbook.</p><p><strong>Why do you give to Southeast?</strong></p><p>Without SEMO, I would not be the person I am today. Therefore, even though my donations are quite small, every little bit helps. I always designate my donation to go to the Golden Eagles.</p><p><strong>Why do you believe the work of the Foundation is important?</strong></p><p>What a great way to help aspiring students reach their goals.</p><p><strong>What personal experiences have you had with the students you have helped (who have been helped by the Foundation)?</strong></p><p>None</p><p><strong>Why should other people give to Southeast?</strong></p><p>Like I said before, every little bit helps. Give what is comfortable for you, whether it be $10, $100, or $1,000, think of that one (or more) student whose life your donation enriches.</p><p><strong>Are you a Southeast alumnus?</strong></p><p>Yes</p><p><strong>How has earning your degree from Southeast impacted your life?</strong></p><p>I'm educated! I am so proud to have a degree to help me through life.</p><p><strong>How have you been impacted by the gifts of donors?</strong></p><p>I'm not sure where the money came from for my music scholarship. But I also had to hold down 3 little outside jobs to work my way through college.</p>",
+                "recycled": false
+              }
+            ],
+            "recycled": false
+          }
+        ]
+      },
+      "pageConfigurations": [
+        {
+          "name": "XML",
+          "defaultConfiguration": false,
+          "templateId": "f4f4286c96c98f631dc310ccc9103d5d",
+          "templatePath": "semo.edu:_cms/templates/XML-JSON",
+          "formatRecycled": false,
+          "pageRegions": [
+            {
+              "name": "DEFAULT",
+              "blockRecycled": false,
+              "noBlock": false,
+              "formatRecycled": false,
+              "noFormat": false,
+              "id": "f4f4286c96c98f631dc310ccaf95215e"
+            }
+          ],
+          "includeXMLDeclaration": false,
+          "publishable": false,
+          "id": "1a821dce96c98f631dc310cc349b139d"
+        },
+        {
+          "name": "HTML",
+          "defaultConfiguration": true,
+          "templateId": "f4f4284f96c98f631dc310cc89afa841",
+          "templatePath": "semo.edu:_cms/templates/Default",
+          "formatRecycled": false,
+          "pageRegions": [
+            {
+              "name": "DEFAULT",
+              "blockRecycled": false,
+              "noBlock": false,
+              "formatId": "1a83eee796c98f631dc310ccfd093139",
+              "formatPath": "semo.edu:_cms/formats/pages/peopleDetail",
+              "formatRecycled": false,
+              "noFormat": false,
+              "id": "1a821dce96c98f631dc310cc0f88c595"
+            },
+            {
+              "name": "HEADER",
+              "blockRecycled": false,
+              "noBlock": false,
+              "formatId": "f4f428ee96c98f631dc310ccd02e84aa",
+              "formatPath": "semo.edu:_cms/formats/global/header",
+              "formatRecycled": false,
+              "noFormat": false,
+              "id": "f4f4284f96c98f631dc310cc25ba645b"
+            },
+            {
+              "name": "SCRIPTS",
+              "blockRecycled": false,
+              "noBlock": false,
+              "formatId": "f4f4290296c98f631dc310cc309bbe63",
+              "formatPath": "semo.edu:_cms/formats/global/scripts",
+              "formatRecycled": false,
+              "noFormat": false,
+              "id": "f4f4284f96c98f631dc310cca81c72d3"
+            },
+            {
+              "name": "BODY-END",
+              "blockRecycled": false,
+              "noBlock": false,
+              "formatId": "f51661b896c98f631dc310cc8befed39",
+              "formatPath": "semo.edu:_cms/formats/global/body/end",
+              "formatRecycled": false,
+              "noFormat": false,
+              "id": "f509588696c98f631dc310cc476b767b"
+            },
+            {
+              "name": "FOOTER",
+              "blockRecycled": false,
+              "noBlock": false,
+              "formatId": "f4f4291896c98f631dc310cca34d29e8",
+              "formatPath": "semo.edu:_cms/formats/global/footer",
+              "formatRecycled": false,
+              "noFormat": false,
+              "id": "f4f4284f96c98f631dc310cc379da5f6"
+            },
+            {
+              "name": "HEAD",
+              "blockRecycled": false,
+              "noBlock": false,
+              "formatId": "f4f428de96c98f631dc310cc116d155e",
+              "formatPath": "semo.edu:_cms/formats/global/head",
+              "formatRecycled": false,
+              "noFormat": false,
+              "id": "f4f4284f96c98f631dc310cc10393632"
+            },
+            {
+              "name": "MENU",
+              "blockRecycled": false,
+              "noBlock": false,
+              "formatId": "f58040b396c98f631dc310ccb743f652",
+              "formatPath": "semo.edu:_cms/formats/global/menu",
+              "formatRecycled": false,
+              "noFormat": false,
+              "id": "f509588796c98f631dc310ccf39d72db"
+            },
+            {
+              "name": "PAGEWRAPPER-START",
+              "blockRecycled": false,
+              "noBlock": false,
+              "formatId": "f517693e96c98f631dc310cca1e51d09",
+              "formatPath": "semo.edu:_cms/formats/global/pagewrapper/start",
+              "formatRecycled": false,
+              "noFormat": false,
+              "id": "f509588696c98f631dc310cc7105c62a"
+            },
+            {
+              "name": "BODY-START",
+              "blockRecycled": false,
+              "noBlock": false,
+              "formatId": "f516618096c98f631dc310cc0abb6a15",
+              "formatPath": "semo.edu:_cms/formats/global/body/start",
+              "formatRecycled": false,
+              "noFormat": false,
+              "id": "f509588696c98f631dc310cccdce4a0e"
+            },
+            {
+              "name": "PAGEWRAPPER-END",
+              "blockRecycled": false,
+              "noBlock": false,
+              "formatId": "f517695096c98f631dc310cc06792cd9",
+              "formatPath": "semo.edu:_cms/formats/global/pagewrapper/end",
+              "formatRecycled": false,
+              "noFormat": false,
+              "id": "f509588696c98f631dc310cc1c24801c"
+            }
+          ],
+          "includeXMLDeclaration": false,
+          "publishable": false,
+          "id": "1a821dce96c98f631dc310cc10b1e6a6"
+        }
+      ],
+      "linkRewriting": "inherit",
+      "shouldBePublished": true,
+      "shouldBeIndexed": true,
+      "expirationFolderRecycled": false,
+      "metadata": {
+        "displayName": "",
+        "title": "Sharon Fox",
+        "summary": "",
+        "teaser": "",
+        "keywords": "",
+        "metaDescription": "",
+        "author": "",
+        "dynamicFields": [
+          {
+            "name": "show-on-search-results",
+            "fieldValues": [
+              {
+                "value": "No"
+              }
+            ]
+          },
+          {
+            "name": "show-on-detail",
+            "fieldValues": [
+              {
+                "value": "No"
+              }
+            ]
+          }
+        ]
+      },
+      "reviewOnSchedule": false,
+      "reviewEvery": 180,
+      "parentFolderId": "bf7319df96c98f63204015ee75e83832",
+      "parentFolderPath": "_testing/donor-spotlights",
+      "lastModifiedDate": "Jul 22, 2021 10:36:20 AM",
+      "lastModifiedBy": "jtrenaud1s",
+      "createdDate": "Jul 22, 2021 10:36:20 AM",
+      "createdBy": "jtrenaud1s",
+      "path": "_testing/donor-spotlights/sharon-fox",
+      "siteId": "80efea1596c98f631dc310ccfb483f98",
+      "siteName": "semo playground",
+      "tags": [],
+      "name": "sharon-fox",
+      "id": "cedc474996c98f635de775fdf9148d64"
+    }
+  },
+  "success": true
+}
